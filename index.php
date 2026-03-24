@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Registrar usuario</title>
+	<title>Registrar usuario nuevo</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
@@ -14,6 +14,7 @@
     </form>
         <?php 
         include("registrar.php");
-        ?>
+        ?> 
+		
 </body>
 </html>
